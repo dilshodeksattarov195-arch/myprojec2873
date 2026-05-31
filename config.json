@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvalculate",
+        "uuid": 8506953,
+        "checksum": "knrpy9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
